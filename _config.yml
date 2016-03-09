@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6030529
+color:
+  saturation: 0.6644011
+  lightness: 0.8252345
+  brandStrength: 0.9621766
+  brandColors:
+    - '#FFF2D7'
+    - '#535465'
+    - '#FAA490'
+    - '#302016'
+    - '#764230'
+  rhythmicContrast: 0.5395636
+name: Nic
